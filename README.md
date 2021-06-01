@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @froze0451
 - 👀 I’m interested in programming, design, ui/ux
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - email
 
