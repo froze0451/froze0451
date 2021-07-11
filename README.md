@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @froze0451
+- 👋 Hi, I’m Artem Filatov
 - 👀 I’m interested in programming, design, ui/ux
-- 🌱 I’m currently learning advanced JS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning WebSocket, Docker & Jest
 - 📫 How to reach me - t.me/frozealex
 
 <!---
