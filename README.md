@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Artem Filatov
 - 👀 I’m interested in programming, design, ui/ux
-- 🌱 I’m currently learning Typescript, NestJS, Jest
+- 🌱 I’m currently learning PostgreSQL, NestJS, Typescript
 - 📫 How to reach me - t.me/frozealex
 
 <!---
