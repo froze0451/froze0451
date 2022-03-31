@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Artem Filatov
+- 👋 Hi, I’m Artem Filatov Full-stack JS developer
 - 👀 I’m interested in programming, design, ui/ux
 - 🌱 I’m currently learning PostgreSQL, NestJS, Typescript
 - 📫 How to reach me - t.me/frozealex
