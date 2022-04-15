@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Artem Filatov Full-stack JS developer
 - 👀 I’m interested in programming, design, ui/ux
-- 🌱 I’m currently learning PostgreSQL, AWS
+- 🌱 I’m currently learning PostgreSQL, GraphQL, AWS
 - 📫 How to reach me - t.me/frozealex
 
 <!---
